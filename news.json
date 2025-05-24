@@ -1,0 +1,73 @@
+[
+  {
+    "summary": "Oregon's landmark bottle redemption law is under review due to concerns over its unintended social consequences, particularly related to drug use and homelessness.",
+    "source": "https://apnews.com/article/b7d352ad8509ace998467141fe0b7f92",
+    "related_sources": [],
+    "timestamp": "2025-05-17T12:00:00Z"
+  },
+  {
+    "summary": "Global stocks rally as investors anticipate a shift in monetary policy from major central banks, with hopes of interest rate cuts later this year.",
+    "source": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-15/",
+    "related_sources": [
+      "https://www.bloomberg.com/markets/stocks",
+      "https://www.wsj.com/markets/stocks"
+    ],
+    "timestamp": "2025-05-17T13:00:00Z"
+  },
+  {
+    "summary": "A new AI model capable of generating realistic video from text prompts is raising concerns about misinformation and deepfakes.",
+    "source": "https://www.theverge.com/2024/2/15/24074400/openai-sora-text-to-video-generator-ai",
+    "related_sources": [
+      "https://www.technologyreview.com/2024/02/15/1088492/openai-sora-text-to-video/"
+    ],
+    "timestamp": "2025-05-17T14:00:00Z"
+  },
+  {
+    "summary": "The International Space Station (ISS) is preparing for a critical spacewalk to repair a damaged solar array, crucial for maintaining its power supply.",
+    "source": "https://www.nasa.gov/iss/",
+    "related_sources": [],
+    "timestamp": "2025-05-17T15:00:00Z"
+  },
+  {
+    "summary": "Negotiations for a ceasefire in the ongoing regional conflict have stalled, with both sides reportedly far from an agreement.",
+    "source": "https://www.aljazeera.com/news/2024/5/16/middle-east-crisis-whats-the-latest",
+    "related_sources": [
+      "https://www.bbc.com/news/world-middle-east"
+    ],
+    "timestamp": "2025-05-17T16:00:00Z"
+  },
+  {
+    "summary": "A breakthrough in fusion energy research promises a cleaner and more sustainable future, though commercial viability is still decades away.",
+    "source": "https://www.nature.com/articles/d41586-024-00468-1",
+    "related_sources": [],
+    "timestamp": "2025-05-17T17:00:00Z"
+  },
+  {
+    "summary": "The upcoming general election is seeing a surge in independent candidates, challenging the traditional two-party system.",
+    "source": "https://www.theguardian.com/politics/latest",
+    "related_sources": [],
+    "timestamp": "2025-05-17T18:00:00Z"
+  },
+  {
+    "summary": "Archaeologists have discovered a previously unknown ancient civilization in the Amazon rainforest, challenging existing theories about the region's history.",
+    "source": "https://www.nationalgeographic.com/history/article/lost-cities-amazon-ecuador",
+    "related_sources": [],
+    "timestamp": "2025-05-17T19:00:00Z"
+  },
+  {
+    "summary": "The film industry is grappling with the impact of streaming services on box office revenues and theatrical distribution models.",
+    "source": "https://variety.com/2024/film/news/",
+    "related_sources": [
+      "https://www.hollywoodreporter.com/"
+    ],
+    "timestamp": "2025-05-17T20:00:00Z"
+  },
+  {
+    "summary": "Major tech companies are investing heavily in quantum computing, aiming to solve problems currently intractable for classical computers.",
+    "source": "https://www.wired.com/tag/quantum-computing/",
+    "related_sources": [
+      "https://www.technologyreview.com/topic/computing/quantum-computing/"
+    ],
+    "timestamp": "2025-05-17T21:00:00Z"
+  }
+]
